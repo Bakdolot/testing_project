@@ -21,3 +21,6 @@
 5 step: start project
 
     python manage.py runserver
+
+
+API doc. uri: /swagger/
